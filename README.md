@@ -10,11 +10,11 @@ After training
 Draw a line that can discriminate between the two learned classes.
 Test the classifier with the remaining 20 samples of each selected classes and find confusion matrix and compute overall accuracy.
 
-![image](https://user-images.githubusercontent.com/101226388/218271256-8a898d90-7937-4616-a63a-e77843ac9b42.png)
-
 ![image](https://user-images.githubusercontent.com/101226388/218271222-2c15b506-328d-4bce-b6a7-069887cd3f5a.png)
 
 ![image](https://user-images.githubusercontent.com/101226388/218271248-12bf9435-6954-42ac-92b3-67890cb6855e.png)
+
+![image](https://user-images.githubusercontent.com/101226388/218271256-8a898d90-7937-4616-a63a-e77843ac9b42.png)
 
 ![image](https://user-images.githubusercontent.com/101226388/218271282-96c97f35-1a1c-4f0f-8d03-4f0e7a6fdd28.png)
 
