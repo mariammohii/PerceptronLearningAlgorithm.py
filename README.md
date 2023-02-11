@@ -22,13 +22,13 @@ Test the classifier with the remaining 20 samples of each selected classes and f
 
 ![image](https://user-images.githubusercontent.com/101226388/218271282-96c97f35-1a1c-4f0f-8d03-4f0e7a6fdd28.png)
 
-![image](https://user-images.githubusercontent.com/101226388/218271311-257dc43b-417f-43ae-989a-72da50d57e36.png)
+![image](https://user-images.githubusercontent.com/101226388/218271292-92334285-6d0d-4004-b947-34b0cfa5beca.png)
 
 ![image](https://user-images.githubusercontent.com/101226388/218271299-17fbf8bd-f876-4f90-b73e-2a3dd2e5d5a6.png)
 
-![image](https://user-images.githubusercontent.com/101226388/218271292-92334285-6d0d-4004-b947-34b0cfa5beca.png)
-
 ![image](https://user-images.githubusercontent.com/101226388/218271305-e578eb69-94bd-4eac-ba78-1a130694d7d1.png)
+
+![image](https://user-images.githubusercontent.com/101226388/218271311-257dc43b-417f-43ae-989a-72da50d57e36.png)
 
 ![image](https://user-images.githubusercontent.com/101226388/218271491-fa235e5b-8c80-40d1-9e58-19eb18ce1b1a.png)
 
