@@ -1,8 +1,5 @@
 # PerceptronLearningAlgorithm.py
 
-The Perceptron algorithm is a two-class (binary) classification machine learning algorithm. It is a type of neural network model, perhaps the simplest type of neural network model. It consists of a single node or neuron that takes a row of data as input and predicts a class label
-
-
 The data set consists of 50 samples from each of three species of penguins
 Five features were measured from each sample: the bill and flipper length, the gender, the bill depth and the body mass
 
