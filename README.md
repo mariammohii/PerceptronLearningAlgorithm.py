@@ -30,6 +30,6 @@ Test the classifier with the remaining 20 samples of each selected classes and f
 
 ![image](https://user-images.githubusercontent.com/101226388/218271305-e578eb69-94bd-4eac-ba78-1a130694d7d1.png)
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/101226388/218271491-fa235e5b-8c80-40d1-9e58-19eb18ce1b1a.png)
 
 
